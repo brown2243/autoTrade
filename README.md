@@ -7,3 +7,4 @@
 - winston
 - node-binance-api
 - axios
+- dotenv
