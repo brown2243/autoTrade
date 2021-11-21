@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/brown2243/autoTrade#readme",
   "dependencies": {
+    "axios": "^0.24.0",
     "dayjs": "^1.10.7",
     "node-binance-api": "^0.13.0",
     "socket.io": "^4.4.0",
