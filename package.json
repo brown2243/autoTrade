@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/brown2243/autoTrade/issues"
   },
-  "homepage": "https://github.com/brown2243/autoTrade#readme"
+  "homepage": "https://github.com/brown2243/autoTrade#readme",
+  "dependencies": {
+    "dayjs": "^1.10.7",
+    "node-binance-api": "^0.13.0",
+    "socket.io": "^4.4.0",
+    "winston": "^3.3.3"
+  }
 }
